@@ -77,3 +77,7 @@ The look and the house style live in plain text files, so you can change them:
 
 - FigJam boards only, not Figma Design files.
 - Tested in October 2026 with Claude Code and Figma's remote MCP server.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
